@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="description" content="Zašto je trening ključan za zdrav život.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zašto je trening ključan za zdrav život</title>
+</head>
+<body>
+    <h1>Zašto je trening ključan za zdrav život</h1>
+    
+    <h2>Benefiti za tijelo i um</h2>
+    
+    <p>Redovni trening ima ogroman utjecaj na naše fizičko zdravlje. 
+    Pomaže u održavanju zdrave tjelesne težine, jača mišiće i kosti te smanjuje rizik od razvoja brojnih kroničnih bolesti, 
+    poput dijabetesa, bolesti srca i visokog krvnog tlaka. Već 30 minuta fizičke aktivnosti dnevno može značajno poboljšati 
+    vašu izdržljivost i ukupnu energiju.</p>
+    
+    <p>Osim fizičkih prednosti, trening ima i pozitivan utjecaj na mentalno zdravlje. Tijekom vježbanja tijelo oslobađa endorfine, 
+    poznate kao "hormoni sreće", koji pomažu u smanjenju stresa i anksioznosti. Također, redovna fizička aktivnost poboljšava kvalitetu sna, 
+    koncentraciju i doprinosi boljem raspoloženju, što čini trening nezamjenjivim dijelom zdravog načina života.</p>
+
+    <figure>
+        <a href="images/large_trening.jpg" target="_blank">
+            <img src="images/trening_thumbnail.jpg" alt="Osoba koja trči u prirodi" style="width: 300px;">
+        </a>
+        <figcaption>Osoba koja trči u prirodi, što simbolizira redovnu fizičku aktivnost.</figcaption>
+    </figure>
+
+    <figure>
+        <a href="https://example.com/images/large_endofrini.jpg" target="_blank">
+            <img src="https://example.com/images/endofrini_thumbnail.jpg" alt="Infografika o endorfinima" style="width: 300px;">
+        </a>
+        <figcaption>Infografika koja prikazuje kako endorfini poboljšavaju raspoloženje.</figcaption>
+    </figure>
+</body>
+</html>
